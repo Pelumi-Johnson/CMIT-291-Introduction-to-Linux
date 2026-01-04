@@ -8,13 +8,13 @@ Linux administration tasks including file system navigation, user management, pe
 ## 🔐 Configuring & Securing a Linux Server (Ubuntu)
 Hands-on project where I configured an Ubuntu Linux server to host a web page, enabled secure remote administration, locked down network access with firewall rules, and implemented automated intrusion prevention through log monitoring.  
 
-👉 [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Configuring-Securing-a-Linux-Server-Ubuntu-/tree/main)
+➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Configuring-Securing-a-Linux-Server-Ubuntu-/tree/main)
 
 ---
 
 ### 🐧 Tryhackme Linux Fundamentals: Core Commands & Shell Behavior
 Hands-on practice with core Linux commands, directory traversal, file handling, and shell operators in an Ubuntu command-line environment.
 
-➡ [Vew Lab Report](https://github.com/Pelumi-Johnson/-TryHackMe-Linux-Fundamentals-Part-1/tree/main)
+➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/-TryHackMe-Linux-Fundamentals-Part-1/tree/main)
 
 ---
