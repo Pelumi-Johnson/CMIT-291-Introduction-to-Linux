@@ -9,3 +9,5 @@ Linux administration tasks including file system navigation, user management, pe
 Hands-on project where I configured an Ubuntu Linux server to host a web page, enabled secure remote administration, locked down network access with firewall rules, and implemented automated intrusion prevention through log monitoring.  
 
 👉 [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Configuring-Securing-a-Linux-Server-Ubuntu-/tree/main)
+
+---
