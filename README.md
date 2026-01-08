@@ -5,6 +5,13 @@ Linux administration tasks including file system navigation, user management, pe
 
 ---
 
+## 🏗️ Building & Configuring a Linux Environment (Ubuntu on VirtualBox)
+This project documents my first complete Linux environment build using Ubuntu 24.04.3 LTS inside Oracle VirtualBox. 
+
+➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Building-Configuring-a-Linux-Environment/tree/main)
+
+---
+
 ## 🔐 Configuring & Securing a Linux Server (Ubuntu)
 Hands-on project where I configured an Ubuntu Linux server to host a web page, enabled secure remote administration, locked down network access with firewall rules, and implemented automated intrusion prevention through log monitoring.  
 
