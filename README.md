@@ -12,14 +12,14 @@ Built and configured a Linux environment using Ubuntu 24.04.3 LTS in VirtualBox,
 
 ---
 
-## 🔐 Configuring & Securing a Linux Server (Ubuntu)
+## 🐧 Configuring & Securing a Linux Server (Ubuntu)
 Hands-on project where I configured an Ubuntu Linux server to host a web page, enabled secure remote administration, locked down network access with firewall rules, and implemented automated intrusion prevention through log monitoring.  
 
 ➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Configuring-Securing-a-Linux-Server-Ubuntu-/tree/main)
 
 ---
 
-## 🖥️ Deploying & Managing a Linux-Based Application Stack (LAMP)
+## 🐧 Deploying & Managing a Linux-Based Application Stack (LAMP)
 Deployed and managed a Linux LAMP stack by configuring Apache, MySQL, and PHP, automating backups with Bash and cron, monitoring system performance, and enforcing security with AppArmor. 
 
 ➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Deploying-Managing-a-Linux-Based-Application-Stack-LAMP-)
