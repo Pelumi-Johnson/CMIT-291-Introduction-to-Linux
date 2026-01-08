@@ -19,6 +19,13 @@ Hands-on project where I configured an Ubuntu Linux server to host a web page, e
 
 ---
 
+## 🖥️ Deploying & Managing a Linux-Based Application Stack (LAMP)
+Deployed and managed a Linux LAMP stack by configuring Apache, MySQL, and PHP, automating backups with Bash and cron, monitoring system performance, and enforcing security with AppArmor. 
+
+➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Deploying-Managing-a-Linux-Based-Application-Stack-LAMP-)
+
+---
+
 ### 🐧 Tryhackme Linux Fundamentals: Core Commands & Shell Behavior
 Hands-on practice with core Linux commands, directory traversal, file handling, and shell operators in an Ubuntu command-line environment.
 
