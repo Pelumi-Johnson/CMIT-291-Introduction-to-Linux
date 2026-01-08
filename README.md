@@ -26,7 +26,7 @@ Deployed and managed a Linux LAMP stack by configuring Apache, MySQL, and PHP, a
 
 ---
 
-### 🐧 Tryhackme Linux Fundamentals: Core Commands & Shell Behavior
+## 🐧 Tryhackme Linux Fundamentals: Core Commands & Shell Behavior
 Hands-on practice with core Linux commands, directory traversal, file handling, and shell operators in an Ubuntu command-line environment.
 
 ➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/-TryHackMe-Linux-Fundamentals-Part-1/tree/main)
